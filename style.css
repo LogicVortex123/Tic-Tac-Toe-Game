@@ -1,0 +1,27 @@
+#container {
+  display: grid;
+  column-gap: 5px;
+  row-gap: 5px;
+  grid-template-columns: auto auto auto;
+  background-color: lightcoral;
+  padding: 80px;
+  border: solid;
+  width: 330px;
+  margin: auto;
+}
+
+.option {
+  background-color: whitesmoke;
+  border: 5px solid black;
+  padding: 50px;
+  text-align: center;
+  width: 50px;
+}
+
+#restart {
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+}
